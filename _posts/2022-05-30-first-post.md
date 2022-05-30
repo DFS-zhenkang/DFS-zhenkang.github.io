@@ -12,3 +12,7 @@ Welcome to my new post
 This is amazing  
 
 I hope this works  
+
+![Its a girl!](https://dfs-zhenkang.github.io/pictures/girl.gif)  
+
+Ok  
