@@ -21,7 +21,9 @@ At least, I have a website for today. YAY!
 
 # My opinions and learning points
 
-It was very satisfying to see the website come to life. There were a lot of hoops to cross (A LOT), like figuring out how to actually run the git commit code (before realising there is actually a much easier and intuitive method for doing it).
+It was very satisfying to see the website come to life. There were a lot of hoops to cross (A LOT), like figuring out how to actually run the git commit code (before realising there is actually a much easier and intuitive method for doing it).  
+
+I can now understand how to make new posts using a coding interface using Jerkyll.
 
 # My hopes for tomorrow
 
