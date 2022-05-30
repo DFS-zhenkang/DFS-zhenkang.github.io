@@ -7,8 +7,8 @@ permalink: /posts/first-post
 
 **Hello**
 
-Welcome to my new post
+Welcome to my new post  
 
-This is amazing
+This is amazing  
 
-I hope this works
+I hope this works  
