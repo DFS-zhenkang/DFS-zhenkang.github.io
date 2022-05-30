@@ -1,18 +1,12 @@
 ---
 layout: post
-title: This is my first post
+title: Day 1 at Science Centre Singapore
 categories: misc
 permalink: /posts/first-post
 ---
 
-**Hello**
+**Hello everyone!**
 
-Welcome to my new post  
+Today, I created my very own website!  
 
-This is amazing  
-
-I hope this works  
-
-![Its a girl!](https://dfs-zhenkang.github.io/pictures/girl.gif)  
-
-Ok  
+I learnt how to use Git and Microsoft Visual Studio Code, and using Jerkyll templates. It was NOT EASY
