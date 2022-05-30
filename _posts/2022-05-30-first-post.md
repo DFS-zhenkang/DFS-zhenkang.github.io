@@ -23,8 +23,8 @@ At least, I have a website for today. YAY!
 
 It was very satisfying to see the website come to life. There were a lot of hoops to cross (A LOT), like figuring out how to actually run the git commit code (before realising there is actually a much easier and intuitive method for doing it).  
 
-I can now understand how to make new posts using a coding interface using Jekyll.
+I can now understand how to make new posts using a coding interface using Jekyll.  
 
 # My hopes for tomorrow
 
-However, I won't be here tomorrow due to NE Symposium. For Wednesday, I hope I can work on the lightbox, and operate the laser cutter, because it is more interactive and new to me.
+However, I won't be here tomorrow due to NE Symposium. For Wednesday, I hope I can work on the lightbox, and operate the laser cutter, because it is more interactive and new to me.  
