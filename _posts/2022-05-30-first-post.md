@@ -11,7 +11,7 @@ permalink: /posts/first-post
 
 Today, I created my very own website!  
 
-I learnt how to use Git, GitHub and Microsoft Visual Studio Code, and using Jerkyll templates. It was NOT EASY  
+I learnt how to use Git, GitHub and Microsoft Visual Studio Code, and using Jekyll templates. It was NOT EASY  
 
 I also needed to teach others how to make their own website (and add pictures)
 
@@ -23,7 +23,7 @@ At least, I have a website for today. YAY!
 
 It was very satisfying to see the website come to life. There were a lot of hoops to cross (A LOT), like figuring out how to actually run the git commit code (before realising there is actually a much easier and intuitive method for doing it).  
 
-I can now understand how to make new posts using a coding interface using Jerkyll.
+I can now understand how to make new posts using a coding interface using Jekyll.
 
 # My hopes for tomorrow
 
