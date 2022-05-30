@@ -2,6 +2,7 @@
 layout: post
 title: This is my first post
 categories: misc
+permalink: /posts/first-post
 ---
 
 **Hello**
