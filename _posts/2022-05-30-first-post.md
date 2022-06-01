@@ -9,7 +9,7 @@ permalink: /posts/first-post
 
 **Hello everyone!**
 
-Today, I created my very own website!  
+Today, I created my very own website!😀   
 
 I learnt how to use Git, GitHub and Microsoft Visual Studio Code, and using Jekyll templates. It was NOT EASY  
 
