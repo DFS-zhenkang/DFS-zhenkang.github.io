@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Welcome to my Science Centre blog! :D (I shall find out how to add emojis)
+Welcome to my Science Centre blog! :D I will share about what I have done in this mini blog of mine during these 3 weeks.
