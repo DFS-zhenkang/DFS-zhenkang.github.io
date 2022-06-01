@@ -16,10 +16,10 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
+author: Zhen Kang
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: Zhen Kang
 
 plugins:
   - jekyll-target-blank
