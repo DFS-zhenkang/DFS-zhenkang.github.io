@@ -4,8 +4,8 @@ title: "Picture dump"
 ---
 These are some pictures of random stuff  
 
-![Its a girl!](https://dfs-zhenkang.github.io/pictures/girl.gif) 
-![Among Us](https://dfs-zhenkang.github.io/pictures/amogus.gif)
+![Its a girl!](../pictures/girl.gif) 
+![Among Us](../pictures/amogus.gif)
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nDAsYqVyJzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
